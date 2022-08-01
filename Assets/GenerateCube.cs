@@ -39,8 +39,8 @@ public class GenerateCube : MonoBehaviour
         {
             // Top face
             new Vector3(-1.0f, 1.0f, -1.0f),
-            new Vector3(-1.0f, 1.0f, 1.0f),
             new Vector3(1.0f, 1.0f, 1.0f),
+            new Vector3(-1.0f, 1.0f, 1.0f),
             
             new Vector3(-1.0f, 1.0f, -1.0f),
             new Vector3(1.0f, 1.0f, 1.0f),

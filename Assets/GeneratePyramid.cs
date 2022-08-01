@@ -5,7 +5,16 @@ using UnityEngine;
 
 [RequireComponent(typeof(MeshFilter))]
 public class GeneratePyramid : MonoBehaviour
+
+
 {
+
+    /*
+
+    public int numberofslides = 6;
+    [serialized field] float _height =4f;
+
+    */
     // Start is called before the first frame update
     private void Start()
     {
